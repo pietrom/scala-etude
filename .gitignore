@@ -1,0 +1,9 @@
+# Eclipse metadata files and dir
+.classpath
+.project
+.settings
+
+# SBT temps
+.cache
+bin/
+target/
